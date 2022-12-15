@@ -1,0 +1,170 @@
+*{
+    color:rgb(124, 252, 0);
+    font-family: 'Chivo Mono', monospace;
+    background: black ;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+
+#titlemenu {
+  font-size:30px;
+  background: #333;
+}
+
+
+
+div.menu {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.menu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.menu a:hover {
+  background-color: #777;
+}
+
+#embreve{
+  font-size:50px;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+.row {margin: 0 -5px;}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.card {
+  box-shadow: 0 4px 8px 0 #333;
+  padding: 16px;
+  text-align: center;
+  background-color: #220757;
+ 
+  max-width: 300px;
+  margin: auto;
+}
+.cardtext {
+  color: white;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color:  #777;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
+
+
+
+.column {
+  width: 100%;
+  display: block;
+  margin-bottom: 20px;
+}
+
+
+
+img {
+  width: 24%; height: auto; display: block; margin-left: auto; margin-right: auto;
+}
+
+/*.background{
+    background-image: url(fundoportfolio.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+    width: 100%;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+  @keyframes blink{
+    to{opacity: .0;}
+  }
+  
+  ::selection{
+    background: black;
+  }
+  
+
+
+
+ 
+  
+  p{
+    color: rgb(124, 252, 0); 
+    font-family: "Courier";
+    font-size: 20px;
+    margin: 10px 0 0 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 30em;
+    animation: type 4s steps(60, end); 
+  }
+  
+  p:nth-child(2){
+    animation: type2 8s steps(60, end);
+  }
+  
+  p a{
+    color: rgb(124, 252, 0);
+    text-decoration: none;
+  }
+  
+  span{
+    animation: blink 1s infinite;
+  }
+  
+  @keyframes type{ 
+    from { width: 0; } 
+  } 
+  
+  @keyframes type2{
+    0%{width: 0;}
+    50%{width: 0;}
+    100%{ width: 100; } 
+  } 
+  
+  @keyframes blink{
+    to{opacity: .0;}
+  }
+  
+  ::selection{
+    background:black;
+  }*/
+
+
+
+
+
+  
